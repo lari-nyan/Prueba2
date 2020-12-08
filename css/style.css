@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+body{
+	font-family: 'Poppins', sans-serif;
+	
+}
+header{
+	background-color: #000;
+}
+
+#slides{
+color: white;
+background-image: url(../img/bg-sliders.jpg);
+background-size:cover;
+background-position:top center;
+padding: 50px;
+}
+.t1{
+	list-style:none !important;
+}
+.text1{
+	font-size: smaller;
+}
+
+.texto{
+	    padding: 10% 5% 0px 5%;
+
+}
+.imagen{
+	    padding: 6% 5% 0px 5%;
+
+}
+
+#footer{
+background-color:#323232;
+	
+	
+}
